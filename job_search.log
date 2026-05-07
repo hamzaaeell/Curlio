@@ -1,0 +1,80 @@
+17:54:56 [INFO] Database initialised at jobs.db
+17:54:56 [INFO] [GREENHOUSE / DEVOPS / INTL] Searching: site:boards.greenhouse.io ("DevOps" OR "SRE" OR "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure Engineer" OR "Site Reliability Engineer") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+17:55:31 [INFO]   → No results
+17:55:31 [INFO] [GREENHOUSE / DEVOPS / INTL] Searching: site:boards.greenhouse.io ("Kubernetes" OR "K8s" OR "DevSecOps" OR "Cloud Architect") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+17:56:03 [INFO]   → No results
+17:56:03 [INFO] [GREENHOUSE / DEVOPS / US] Searching: site:boards.greenhouse.io ("DevOps" OR "SRE" OR "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure Engineer" OR "Site Reliability Engineer") "remote" ("United States" OR "USA" OR "US-based" OR "nationwide")
+17:56:35 [INFO]   → No results
+17:56:35 [INFO] [GREENHOUSE / DEVOPS / US] Searching: site:boards.greenhouse.io ("Kubernetes" OR "K8s" OR "DevSecOps" OR "Cloud Architect") "remote" ("United States" OR "USA" OR "US-based" OR "nationwide")
+18:02:27 [INFO] Database initialised at jobs.db
+18:02:27 [INFO] [LEVER / DEVOPS / INTL] Searching: site:jobs.lever.co ("DevOps" OR "SRE" OR "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure Engineer" OR "Site Reliability Engineer") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+18:03:01 [ERROR] [LEVER / DEVOPS / INTL] Search failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+18:03:01 [INFO] [LEVER / DEVOPS / INTL] Searching: site:jobs.lever.co ("Kubernetes" OR "K8s" OR "DevSecOps" OR "Cloud Architect") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+18:03:32 [ERROR] [LEVER / DEVOPS / INTL] Search failed: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+18:03:32 [INFO] Run complete — 0 new jobs saved in 65.1s
+18:08:28 [INFO] Database initialised at jobs.db
+18:08:28 [INFO] [LEVER / DEVOPS / INTL] Searching: site:jobs.lever.co ("DevOps" OR "SRE" OR "Platform Engineer" OR "Cloud Engineer" OR "Infrastructure Engineer" OR "Site Reliability Engineer") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+18:09:03 [INFO]   → 10 URL(s) found
+18:09:03 [INFO]   Scraping [unknown]: https://jobs.lever.co/gohighlevel/7070113a-7fa9-4a96-9a41-05fe11517987
+18:09:04 [INFO]     → SRE / Devops Engineer - Infrastructure Team @ Gohighlevel |  [worldwide] | skills: ['GCP', 'Cloud', 'Kubernetes', 'Python', 'Go', 'Microservices', 'GKE']
+18:09:04 [INFO]     ✓ SAVED [worldwide]
+18:09:06 [INFO]   Scraping [unknown]: https://jobs.lever.co/zimperium/18699ad3-5707-4e23-96a3-24c11555afb7
+18:09:07 [INFO]     → DevOps Engineer (Europe remote) @ Zimperium |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Docker', 'Kubernetes', 'CI/CD', 'GitHub Actions', 'Python', 'Prometheus']
+18:09:07 [INFO]     ✓ SAVED [worldwide]
+18:09:10 [INFO]   Scraping [unknown]: https://jobs.lever.co/oowlish/f262233b-63eb-43ca-b981-3b8b29564464
+18:09:11 [INFO]     → Senior DevOps / Platform Engineer (AWS | Terraform | Full Stack Exposure) @ Oowlish |  [worldwide] | skills: ['AWS', 'GCP', 'Google Cloud Platform', 'Cloud', 'Docker', 'Kubernetes', 'Terraform', 'Python', 'TypeScript', 'LLM']
+18:09:11 [INFO]     ✓ SAVED [worldwide]
+18:09:13 [INFO]   Scraping [unknown]: https://jobs.lever.co/twingate/6c685d70-e482-439f-b38c-2ee386245064
+18:09:14 [INFO]     → Senior DevOps Engineer @ Twingate |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Kubernetes', 'Terraform', 'CI/CD', 'Python', 'Go']
+18:09:14 [INFO]     ✓ SAVED [worldwide]
+18:09:18 [INFO]   Scraping [unknown]: https://jobs.lever.co/smart-working-solutions/80bb1d25-b21f-44c7-bebf-357b26d2a978
+18:09:18 [INFO]     → Senior Full Stack Engineer (Platform / DevOps) (Remote, Full-Time) [HR161] @ Smart Working Solutions |  [worldwide] | skills: ['AWS', 'Cloud', 'Docker', 'CI/CD', 'GitHub Actions', 'TypeScript', 'Agile']
+18:09:18 [INFO]     ✓ SAVED [worldwide]
+18:09:22 [INFO]   Scraping [unknown]: https://jobs.lever.co/weloglobal/e5371726-7b59-448e-8c01-bdcacd1551f9
+18:09:23 [INFO]     → Cloud Infrastructure Engineer @ Weloglobal |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Terraform', 'CI/CD', 'GitHub Actions', 'Jenkins', 'Python', 'Microservices']
+18:09:23 [INFO]     ✓ SAVED [worldwide]
+18:09:25 [INFO]   Scraping [unknown]: https://jobs.lever.co/mistral/6e16e4fa-a60b-4270-a815-06b0450fb597
+18:09:26 [INFO]     → Site Reliability Engineer @ Mistral |  [worldwide] | skills: ['Cloud', 'Docker', 'Kubernetes', 'Terraform', 'CloudFormation', 'CI/CD', 'Python', 'Go', 'Prometheus', 'Grafana']
+18:09:26 [INFO]     ✓ SAVED [worldwide]
+18:09:29 [INFO]   Scraping [unknown]: https://jobs.lever.co/jumpcloud/0b68078a-ab79-4988-b94e-f97dbc2ca11f
+18:09:29 [INFO]     → Senior Software Engineer, DevOps - India @ Jumpcloud |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Docker', 'Kubernetes', 'K8s', 'Helm', 'Terraform', 'CI/CD']
+18:09:29 [INFO]     ✓ SAVED [worldwide]
+18:09:34 [INFO]   Scraping [unknown]: https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee
+18:09:35 [INFO]     → Senior SRE/DevOps Engineer @ Metabase |  [worldwide] | skills: ['AWS', 'Cloud', 'Kubernetes', 'Terraform', 'CI/CD', 'Python', 'Go', 'Prometheus', 'Grafana', 'Datadog']
+18:09:35 [INFO]     ✓ SAVED [worldwide]
+18:09:39 [INFO]   Scraping [unknown]: https://jobs.lever.co/trueml/0b2527b6-ca9a-4486-8711-edf4a38d2873
+18:09:40 [INFO]     → Senior DevOps Engineer (hiring in US &amp; LATAM) @ Trueml |  [worldwide] | skills: ['AWS', 'Cloud', 'Kubernetes', 'Helm', 'ArgoCD', 'Terraform', 'CI/CD', 'GitHub Actions', 'Python', 'Go']
+18:09:40 [INFO]     ✓ SAVED [worldwide]
+18:09:44 [INFO] [LEVER / DEVOPS / INTL] Searching: site:jobs.lever.co ("Kubernetes" OR "K8s" OR "DevSecOps" OR "Cloud Architect") "remote" ("Europe" OR "EMEA" OR "India" OR "APAC" OR "LATAM" OR "UAE" OR "worldwide" OR "global")
+18:09:50 [INFO]   → 10 URL(s) found
+18:09:50 [INFO]   Scraping [unknown]: https://jobs.lever.co/jobgether/c770e774-5488-41c0-bc88-7fe4f1fedf64
+18:09:51 [INFO]     → Sr Cloud Engineer @ Jobgether |  [worldwide] | skills: ['Azure', 'Google Cloud Platform', 'Cloud', 'Kubernetes', 'Terraform', 'EKS', 'GKE', 'AKS']
+18:09:51 [INFO]     ✓ SAVED [worldwide]
+18:09:54 [INFO]   Scraping [unknown]: https://jobs.lever.co/jobgether/63f490ff-744b-4015-ba48-cc505c6419d9
+18:09:55 [INFO]     → Platform Engineer - Multicloud @ Jobgether |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Kubernetes', 'Pulumi']
+18:09:55 [INFO]     ✓ SAVED [worldwide]
+18:09:59 [INFO]   Scraping [unknown]: https://jobs.lever.co/talentwerx.io/9f4b7612-ce1e-46fa-a7f6-bf76a67650ef
+18:10:00 [INFO]     → E01-L03 Cloud Architect IV @ Talentwerx.Io |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Docker', 'Kubernetes', 'Terraform', 'Ansible', 'CloudFormation', 'CI/CD']
+18:10:00 [INFO]     ✓ SAVED [worldwide]
+18:10:04 [INFO]   Scraping [unknown]: https://jobs.lever.co/jobgether/ff730473-ff25-40f9-8a8f-a541ef3d1de7
+18:10:05 [WARNING]     ✗ FAILED: Job not found (404)
+18:10:09 [INFO]   Scraping [unknown]: https://jobs.lever.co/bee-talents/2f9f653a-772a-4a7a-a690-021663644772
+18:10:10 [INFO]     → Software Engineer (Python, Kubernetes, AI/ML) | Gcore | Remote @ Bee Talents |  [worldwide] | skills: ['Cloud', 'Docker', 'Kubernetes', 'Helm', 'Python', 'Go', 'PyTorch', 'TensorFlow']
+18:10:10 [INFO]     ✓ SAVED [worldwide]
+18:10:12 [INFO]   Scraping [unknown]: https://jobs.lever.co/teramind/1787f7d1-8490-4ad4-8c21-8e2a93de71b1
+18:10:13 [INFO]     → Lead DevSecOps Engineer @ Teramind |  [worldwide] | skills: ['AWS', 'Azure', 'GCP', 'Cloud', 'Docker', 'Kubernetes', 'CI/CD', 'Python', 'Go', 'Java']
+18:10:13 [INFO]     ✓ SAVED [worldwide]
+18:10:15 [INFO]   Scraping [unknown]: https://jobs.lever.co/bee-talents/cbcbeee6-7925-4bbe-8182-33ff1a13abdb
+18:10:16 [INFO]     → Software Golang Engineer (Kubernetes) | Gcore | Remote @ Bee Talents |  [worldwide] | skills: ['Cloud', 'Docker', 'Kubernetes', 'K8s', 'Helm', 'Python', 'Go', 'PyTorch', 'TensorFlow']
+18:10:16 [INFO]     ✓ SAVED [worldwide]
+18:10:19 [INFO]   Scraping [unknown]: https://jobs.lever.co/nextovation/ec0801e7-632d-4f4b-8d1e-f5f07f6f3b86/apply
+18:10:22 [INFO]     → Cloud Security Architect - (Remote from LATAM Locations) @ Nextovation | Mexico City /São Paulo /Buenos Aires /Panama City /Rio de Janeiro [latin_america] | skills: ['Cloud']
+18:10:22 [INFO]     ✓ SAVED [latin_america]
+18:10:25 [INFO]   Scraping [unknown]: https://jobs.lever.co/jumpcloud/0b68078a-ab79-4988-b94e-f97dbc2ca11f
+18:10:25 [INFO]     ~ DUPLICATE (already in DB)
+18:10:30 [INFO]   Scraping [unknown]: https://jobs.lever.co/airalo/f5c10c7d-a48d-4c40-8b8a-3ff4fdd758e0
+18:10:31 [INFO]     → Senior DevSecOps Engineer @ Airalo |  [worldwide] | skills: ['AWS', 'Cloud', 'Kubernetes', 'Terraform', 'CI/CD', 'GitHub Actions', 'Jenkins', 'Python', 'Go', 'Java']
+18:10:31 [INFO]     ✓ SAVED [worldwide]
+18:10:33 [INFO] Run complete — 18 new jobs saved in 125.8s
